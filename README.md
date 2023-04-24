@@ -13,14 +13,21 @@ Database My-SQL
 
 ## Features
 
-lightweight application with a simple UI that can be run on windows and mac
-Can be used by both teachers/admins as well as students
-For students can be used to view their details results and verdict
-Admins/teachers can add/remove/update/view student details and their marks
-Admin users can be added and removed as per the need
-The application can be setup to run with a different user and My-SQL server (local or remote) different ports or address as per need
-the application has features to check/avoid errors whie updating details marks. to avoid orphan entries when deleting etc
-a executable jar file with custom icon for running it directly
+- lightweight application with a simple UI that can be run on windows and mac
+
+- Can be used by both teachers/admins as well as students
+
+- For students can be used to view their details results and verdict
+
+- Admins/teachers can add/remove/update/view student details and their marks
+
+- Admin users can be added and removed as per the need
+
+- The application can be setup to run with a different user and My-SQL server (local or remote) different ports or address as per need
+
+- The application has features to check/avoid errors whie updating details marks. to avoid orphan entries when deleting etc
+
+- A executable jar file with custom icon for running it directly
 
 
 
