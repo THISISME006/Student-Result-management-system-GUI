@@ -3,14 +3,16 @@ This is a application for managing students and their results in various subject
 
 PS. the application does require some database setup to get started. for more details please refer to help folder for more details about requirements and setup process.
 
-Tech Stack
+## Tech Stack
+
 Programming Langauge Java
 
 Framework JSwing, Awt
 
 Database My-SQL
 
-Features
+## Features
+
 lightweight application with a simple UI that can be run on windows and mac
 Can be used by both teachers/admins as well as students
 For students can be used to view their details results and verdict
